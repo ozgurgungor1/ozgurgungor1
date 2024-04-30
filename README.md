@@ -6,8 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://www.moradam.com/wp-content/uploads/2020/09/Programlama.gif
 
+
+![Programlama](https://github.com/ozgurgungor1/ozgurgungor1/assets/168583984/6b4068a9-653b-4e35-83fe-e233e1fa7f8a)
 
 
 
