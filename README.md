@@ -4,15 +4,9 @@
 
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=ozgurgungor1&show_icons=true&locale=en&layout=compact" alt = "ozgurgungor1" /> </p>
 
-
 <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ozgurgungor1&" alt = "ozgurgungor1" /></p>
 
-
-
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ozgurgungor1&show_icons=true&locale=en" alt = "ozgurgungor1" /> </p>
-
-
-
+<p><img style="text-align: right;" src="https://github-readme-stats.vercel.app/api?username=ozgurgungor1&show_icons=true&locale=en" alt="ozgurgungor1" /></p>
 
 
 
