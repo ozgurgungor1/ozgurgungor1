@@ -77,7 +77,7 @@
 
 
 
-
+<h3>Destek:</h3>
 
   <a href="https://www.buymeacoffee.com/ozgurgungor" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Bana Bir Kahve Al" style="height: 60px !important; width: 217px !important;">
