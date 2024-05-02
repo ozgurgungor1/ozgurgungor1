@@ -24,9 +24,10 @@
 
 
 
-<h3 align="left">Destek:</h3>
-<p> <a href="[https://www.buymeacoffee.com/buymeacoffee.com/ozgurgungor](https://www.buymeacoffee.com/ozgurgungor)"> <img align="left" src="https ://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height = "50" genişlik = "210" alt = "https://www.buymeacoffee.com/ozgurgungor" /></a> </p><br <br>
 
+
+<h3 align="left">Destek:</h3>
+<p> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ozgurgungor"> <img align=" left" src = "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height = "50" width = "210" alt = "https://www.buymeacoffee.com/ozgurgungor" /></a> </p><br><br>
 
 
 
