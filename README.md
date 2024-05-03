@@ -2,12 +2,11 @@
 <h3 align="center">Bilgisayar Programcısı</h3>
 
 
-<em>Kastamonu Üniversitesi Taşköprü MYO <a href="https://kastamonu.edu.tr/index.php/tr/">Taşköprü Üniversitesi </a>     <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">   
+<em>Kastamonu Üniversitesi Taşköprü MYO <a href="https://kastamonu.edu.tr/index.php/tr/" target="_blank">Taşköprü Üniversitesi</a></em> <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">
 
+<br>
 
-
-
-<em>Kahramankazan Mesleki ve Teknik Anadolu Lisesi<a href="https://kametal.meb.k12.tr/icerikler/bilisim-teknolojileri-alani_122381.html"> Bilişim Teknolojileri </a>   <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">  
+<em>Kahramankazan Mesleki ve Teknik Anadolu Lisesi<a href="https://kametal.meb.k12.tr/icerikler/bilisim-teknolojileri-alani_122381.html" target="_blank"> Bilişim Teknolojileri </a></em> <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">
 
 
 
