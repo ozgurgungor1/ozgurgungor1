@@ -40,11 +40,8 @@
   <a href="https://dev.to/ozgurgungor1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/%c3%b6zg%c3%bcr-g%c3%bcng%c3%b6r/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/24753534/%c3%b6zg%c3%bcr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ozgurgungoorr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
-
-  <a href="https://www.kaggle.com/ozgurgungor1" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" alt="Stack Overflow" height="30" width="40" /></a>
-
+   <a href="https://www.kaggle.com/ozgurgungor1" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ozgurgungoorr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 
 </p>
 
