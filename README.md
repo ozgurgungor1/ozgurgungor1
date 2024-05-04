@@ -1,4 +1,4 @@
-<h1>Merhaba 👋, Ben Özgür Güngör</h1>
+<h1 align="center">Merhaba 👋, Ben Özgür Güngör</h1>
 <h3 align="center">Bilgisayar Programcısı</h3>
 
 
