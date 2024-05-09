@@ -2,6 +2,11 @@
 <h3 align="center">Bilgisayar Programcısı</h3>
 
 
+<img src="https://raw.githubusercontent.com/ozgurgungor1/ozgurgungor1/output/snake.svg" alt="Snake animation" />
+
+
+
+
 <em>Kastamonu Üniversitesi Taşköprü MYO <a href="https://kastamonu.edu.tr/index.php/tr/" target="_blank"> Bilgisayar Programcılığı</a></em> <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">
 
 <br>
