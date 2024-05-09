@@ -2,7 +2,26 @@
 <h3 align="center">Bilgisayar Programcısı</h3>
 
 
-<img src="https://raw.githubusercontent.com/ozgurgungor1/ozgurgungor1/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+<div align="center">
+ <h2>Deneme Yılan</h2>
+ <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ozgurgungor1/ozgurgungor1/output/github-contribution-grid-snake.svg" />
+
+ <br/><br/><br/>
+  
+</div>
+
+
+
+
+
+
 
 
 
