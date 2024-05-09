@@ -9,12 +9,11 @@
 
 
 <div align="center">
- <h2>Deneme Yılan</h2>
- <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ozgurgungor1/ozgurgungor1/output/github-contribution-grid-snake.svg" />
-
- <br/><br/><br/>
+  <h2>Deneme</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
+  <br/><br/><br/>
 </div>
 
 
