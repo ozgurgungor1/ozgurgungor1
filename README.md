@@ -7,9 +7,6 @@
 
 <br>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ozgurgungor1.ozgurgungor1" />
-
-
 
 
 <em>Kastamonu Üniversitesi Taşköprü MYO <a href="https://kastamonu.edu.tr/index.php/tr/" target="_blank"> Bilgisayar Programcılığı</a></em> <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">
@@ -17,6 +14,31 @@
 <br>
 
 <em>Kahramankazan Mesleki ve Teknik Anadolu Lisesi<a href="https://kametal.meb.k12.tr/icerikler/bilisim-teknolojileri-alani_122381.html" target="_blank"> Bilişim Teknolojileri </a></em> <img src="https://cdn.dribbble.com/users/722940/screenshots/7066824/media/4d40acd460b072c1e4b8453595f9d51d.gif" width="30">
+
+
+<br>
+
+
+
+
+
+
+
+
+
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/:user/:repo/latest)
+
+![Github Created At](https://img.shields.io/github/created-at/:user/:repo)
+
+![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/:user/:repo)
+
+
+
+
+
+
+
+
 
 
 
