@@ -18,20 +18,13 @@
 
 <br>
 
+![Github Created At](https://img.shields.io/github/created-at/ozgurgungor1/Matplotlib-ogreniyorum)
 
 
 
 
 
-
-
-
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/:user/:repo/latest)
-
-![Github Created At](https://img.shields.io/github/created-at/:user/:repo)
-
-![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/:user/:repo)
-
+![Github Created At](https://img.shields.io/github/created-at/ozgurgungor1/Matplotlib-ogreniyorum)
 
 
 
