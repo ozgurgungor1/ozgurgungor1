@@ -18,20 +18,6 @@
 
 <br>
 
-![Github Created At](https://img.shields.io/github/created-at/ozgurgungor1/Matplotlib-ogreniyorum)
-
-
-
-
-
-![Github Created At](https://img.shields.io/github/created-at/ozgurgungor1/Matplotlib-ogreniyorum)
-
-
-
-
-
-
-
 
 
 
