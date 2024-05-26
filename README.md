@@ -83,12 +83,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="[https://www.vectorlogo.zone/](https://www.unrealengine.com/en-US)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="Unreal Engine Logo" width="40" height="40"/></a>
 
 
 
 
-<a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="Unreal Engine Logo" width="40" height="40"/>
+<a href="https://developer.android.com/studio?hl=tr" target="_blank" rel="noreferrer">
+  <img src="https://firebase.google.com/static/images/integrations/android-studio.png" alt="Android Studio Logo" width="40" height="40"/>
 </a>
 
 
