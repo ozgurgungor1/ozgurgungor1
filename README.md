@@ -3,6 +3,10 @@
 Merhaba! Ben **Özgür Güngör**, Backend Developer olarak kariyerime yön veriyorum.  
 C#, .NET, ASP.NET Core ve Web API konularında uzmanlaşmayı hedefliyorum. 🚀  
 
+
+
+https://chatgpt.com/share/679f8785-2ce4-8012-9a27-38ff3d098191
+
 ## 🛠 Kariyer Planım
 
 ### ✅ 1. Adım: C# Temelleri (2-3 Hafta)
