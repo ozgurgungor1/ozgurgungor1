@@ -5,22 +5,7 @@ C#, .NET, ASP.NET Core ve Web API konularında uzmanlaşmayı hedefliyorum. 🚀
 
 
 
-https://chatgpt.com/share/679f8785-2ce4-8012-9a27-38ff3d098191
 
-## 🛠 Kariyer Planım
-
-### ✅ 1. Adım: C# Temelleri ++
-- 📚 **Kurslar:** Engin Demiroğ, Kerem Katı  
-- 🔹 **Konular:** Değişkenler, Döngüler, Metotlar, LINQ, SOLID  
-
-### ✅ 2. Adım: OOP & Design Patterns ++
-- 🔹 **Konular:** Encapsulation, Inheritance, Polymorphism, Abstraction  
-- 🎯 **Ekstra:** Dependency Injection (DI), Design Patterns (Singleton, Factory, Repository)  
-- 💡 **Proje:** 📚 Kütüphane Yönetim Sistemi veya Stok Takip Uygulaması  
-
-### ✅ 3. Adım: Veritabanı & SQL & Entity Framework ++
-- 🔹 **Konular:** CRUD İşlemleri, Stored Procedures, ORM (EF Core), Repository Pattern  
-- 💡 **Proje:** 🍽 Restoran Sipariş Sistemi veya Kullanıcı Giriş-Kayıt Sistemi  
 
 ### ✅ 4. Adım: Web Geliştirme (ASP.NET Core & Web API) (6-8 Hafta)
 - 🔹 **Konular:** RESTful API, JWT Authentication, Middleware, Exception Handling, Rate Limiting  
@@ -34,9 +19,5 @@ https://chatgpt.com/share/679f8785-2ce4-8012-9a27-38ff3d098191
 ---
 
 ## 🚀 Hedefim  
-✅ Almanya, Kanada veya Katar gibi ülkelerde uzaktan Backend Developer olarak çalışmak.  
 ✅ **ASP.NET Core & Web API** üzerine uzmanlaşmak ve sağlam projeler geliştirmek.  
 
----
-
-📌 **GitHub Projelerim için takipte kal!** 🔗 [GitHub Profilim](https://github.com/ozgurgungor1)  
