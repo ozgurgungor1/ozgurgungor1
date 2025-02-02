@@ -9,7 +9,7 @@ https://chatgpt.com/share/679f8785-2ce4-8012-9a27-38ff3d098191
 
 ## 🛠 Kariyer Planım
 
-### ✅ 1. Adım: C# Temelleri (2-3 Hafta)
+### ✅ 1. Adım: C# Temelleri ++
 - 📚 **Kurslar:** Engin Demiroğ, Kerem Katı  
 - 🔹 **Konular:** Değişkenler, Döngüler, Metotlar, LINQ, SOLID  
 
