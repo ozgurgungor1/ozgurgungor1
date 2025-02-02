@@ -47,7 +47,6 @@ Merhaba! Ben **Özgür Güngör**, Junior Backend Developer olarak kariyerimi ş
 
 ## 🚀 Hedefim
 ✅ Uzaktan çalışarak **Almanya, Kanada, Katar** gibi ülkelerde iş bulmak.
-✅ Yüksek maaşlı, güçlü bir teknoloji yığını oluşturmak.
 ✅ Full Stack Developer olarak yazılım projeleri geliştirmek.
 
 Benimle iletişime geçmek veya projelerime göz atmak için GitHub profilimi ziyaret edebilirsin. 👇
