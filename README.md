@@ -35,4 +35,4 @@ C#, .NET, ASP.NET Core ve Web API konularında uzmanlaşmayı hedefliyorum. 🚀
 
 ---
 
-📌 **GitHub Projelerim için takipte kal!** 🔗 [GitHub Profilim](https://github.com/ozgurgungor)  
+📌 **GitHub Projelerim için takipte kal!** 🔗 [GitHub Profilim](https://github.com/ozgurgungor1)  
