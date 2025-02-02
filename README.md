@@ -18,7 +18,7 @@ https://chatgpt.com/share/679f8785-2ce4-8012-9a27-38ff3d098191
 - 🎯 **Ekstra:** Dependency Injection (DI), Design Patterns (Singleton, Factory, Repository)  
 - 💡 **Proje:** 📚 Kütüphane Yönetim Sistemi veya Stok Takip Uygulaması  
 
-### ✅ 3. Adım: Veritabanı & SQL & Entity Framework (4-5 Hafta)
+### ✅ 3. Adım: Veritabanı & SQL & Entity Framework ++
 - 🔹 **Konular:** CRUD İşlemleri, Stored Procedures, ORM (EF Core), Repository Pattern  
 - 💡 **Proje:** 🍽 Restoran Sipariş Sistemi veya Kullanıcı Giriş-Kayıt Sistemi  
 
