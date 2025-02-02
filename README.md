@@ -21,8 +21,8 @@ C#, .NET, ASP.NET Core ve Web API konularında uzmanlaşmayı hedefliyorum. 🚀
 
 ## İLK PROJE KONULARIM
 
-✔ E-Ticaret API veya Blog Yönetim Sistemi ile başla.
-✔ Sonrasında Mikroservis veya Sosyal Medya API’sine geç.
+✔ E-Ticaret API veya Blog Yönetim Sistemi ile başla. <br>
+✔ Sonrasında Mikroservis veya Sosyal Medya API’sine geç. <br>
 ✔ CI/CD Pipeline ekleyerek projenin profesyonel olmasını sağla.
 
 
