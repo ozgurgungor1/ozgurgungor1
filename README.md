@@ -15,7 +15,7 @@ Feel free to reach out via:
 📧 **Email:** ozgurgungoor@icloud.com  
 💼 **LinkedIn:** [Özgür Güngör](https://www.linkedin.com/in/özgür-güngör/)  
 
-📌 2. Proje Sıralaması (Öncelik Planı)  <br>
+📌  Proje Sıralaması (Öncelik Planı)  <br>
 **📍 1. E-Ticaret API (Backend Temellerini Güçlendir) - 4-6 Hafta** <br>
 **📍 2. Mikroservis Sipariş Sistemi (Dağıtık Mimari Öğren) - 6-8 Hafta** <br>
 **📍 3. AI Destekli API (Gelir Elde Etmeye Başla) - 6-8 Hafta**
