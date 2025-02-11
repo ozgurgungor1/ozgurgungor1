@@ -12,7 +12,6 @@ I enjoy creating innovative solutions and continuously learning new technologies
 - **Languages:** C#, JavaScript, HTML, CSS  
 - **Frameworks:** ASP.NET Core, Bootstrap  
 - **Tools:** Git, Figma, Firebase  
-- **Other:** Flutter, Unity, Unreal Engine  
 
 ## 🚀 Featured Projects  
 Here are some of my notable projects:  
