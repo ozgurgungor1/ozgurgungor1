@@ -14,3 +14,23 @@ I enjoy creating innovative solutions and continuously learning new technologies
 Feel free to reach out via:  
 📧 **Email:** ozgurgungoor@icloud.com  
 💼 **LinkedIn:** [Özgür Güngör](https://www.linkedin.com/in/özgür-güngör/)  
+
+
+
+
+
+1️⃣ Temel Bilgiler (Kesin Gerekli 🚀)
+✅ Linux & Terminal Kullanımı → SSH, dosya yönetimi, sistem yönetimi
+✅ Python veya Bash ile Otomasyon → Dosya işlemleri, log analizi, süreç yönetimi
+✅ Git & GitHub → Versiyon kontrolü, GitHub Actions gibi temel DevOps araçları
+
+2️⃣ Konteyner ve Orkestrasyon (Olmazsa Olmaz 🚀)
+✅ Docker → Dockerfile, Container Yönetimi, Volume & Network
+✅ Kubernetes → Pod, Deployment, Service temel bilgileri
+
+3️⃣ CI/CD (Şart 🚀)
+✅ Jenkins veya GitHub Actions → Otomatik build & deployment süreçleri
+
+4️⃣ Bulut Teknolojileri (En Önemlisi AWS 🚀)
+✅ AWS Temelleri → EC2 (sunucu yönetimi), S3 (depolama), IAM (yetkilendirme)
+✅ Terraform (Altyapıyı kod olarak yönetmek için)
