@@ -15,3 +15,6 @@ Feel free to reach out via:
 📧 **Email:** ozgurgungoor@icloud.com  
 💼 **LinkedIn:** [Özgür Güngör](https://www.linkedin.com/in/özgür-güngör/)  
 
+
+
+**web-site** [Özgür Güngör](http://ozgurgungor.somee.com/)
