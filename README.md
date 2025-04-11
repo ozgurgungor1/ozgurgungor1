@@ -18,3 +18,9 @@ Feel free to reach out via:
 
 
 **web-site** [Özgür Güngör](http://ozgurgungor.somee.com/)
+
+
+
+<a href="https://www.tr.freelancer.com/u/ozgurgungor1">
+   freelancer sayfam için tıkla
+</a>
